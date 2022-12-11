@@ -20,4 +20,4 @@ and other advantage of js(javascript) is that is using js you can do many more t
 
 so now you convinced to learn about js is let's get started with wired javascript history.
 
-![nice-video-of-js-history](https://www.youtube.com/embed/Sh6lK57Cuk4)
+[nice-video-of-js-history](https://www.youtube.com/embed/Sh6lK57Cuk4)
